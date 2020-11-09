@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dde16925-f28a-4da7-8c79-ef6b7e432c22" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/treningDB.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mongoDB/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mongoDB/methods/Delete.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mongoDB/methods/Find.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mongoDB/methods/Put.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mongoDB/mongoDB" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mongoDB/random/Country.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mongoDB/random/Gender.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mongoDB/random/Name.go" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1jrwm5xgbETgr0fQ5I0CWX5Kr7x" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/mongoDB" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build mongoDB_trening/mongoDB">
+    <configuration name="go build mongoDB_trening/mongoDB" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="treningDB" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/mongoDB/main.go" />
+      <package value="mongoDB_trening/mongoDB" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build test" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="treningDB" />
+      <working_directory value="$PROJECT_DIR$/test" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/test/main.go" />
+      <package value="test" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build mongoDB_trening/mongoDB" />
+        <item itemvalue="Go Build.go build test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dde16925-f28a-4da7-8c79-ef6b7e432c22" name="Default Changelist" comment="" />
+      <created>1604575674138</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604575674138</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="520" y="290" key="#Go_Modules" timestamp="1604575853040">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="520" y="290" key="#Go_Modules/0.0.1440.900@0.0.1440.900" timestamp="1604575853040" />
+    <state x="455" y="259" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604577017756">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="455" y="259" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1604577017756" />
+    <state x="297" y="25" key="CommitChangelistDialog2" timestamp="1604916316263">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="297" y="25" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1604916316263" />
+    <state width="1398" height="164" key="GridCell.Tab.0.bottom" timestamp="1604916238417">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="219" key="GridCell.Tab.0.bottom/0.0.1440.900/-274.-1080.1920.1080@0.0.1440.900" timestamp="1604669981052" />
+    <state width="1398" height="252" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.-118.1920.1080@0.0.1440.900" timestamp="1604663523414" />
+    <state width="1398" height="164" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1604916238417" />
+    <state width="1398" height="219" key="GridCell.Tab.0.bottom/0.23.1440.828/-274.-1057.1920.1057@0.23.1440.828" timestamp="1604671360581" />
+    <state width="1398" height="294" key="GridCell.Tab.0.bottom/0.23.1440.828@0.23.1440.828" timestamp="1604694763854" />
+    <state width="1398" height="164" key="GridCell.Tab.0.center" timestamp="1604916238416">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="219" key="GridCell.Tab.0.center/0.0.1440.900/-274.-1080.1920.1080@0.0.1440.900" timestamp="1604669981050" />
+    <state width="1398" height="252" key="GridCell.Tab.0.center/0.0.1440.900/1440.-118.1920.1080@0.0.1440.900" timestamp="1604663523410" />
+    <state width="1398" height="164" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1604916238416" />
+    <state width="1398" height="219" key="GridCell.Tab.0.center/0.23.1440.828/-274.-1057.1920.1057@0.23.1440.828" timestamp="1604671360576" />
+    <state width="1398" height="294" key="GridCell.Tab.0.center/0.23.1440.828@0.23.1440.828" timestamp="1604694763853" />
+    <state width="1398" height="164" key="GridCell.Tab.0.left" timestamp="1604916238415">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="219" key="GridCell.Tab.0.left/0.0.1440.900/-274.-1080.1920.1080@0.0.1440.900" timestamp="1604669981050" />
+    <state width="1398" height="252" key="GridCell.Tab.0.left/0.0.1440.900/1440.-118.1920.1080@0.0.1440.900" timestamp="1604663523408" />
+    <state width="1398" height="164" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1604916238415" />
+    <state width="1398" height="219" key="GridCell.Tab.0.left/0.23.1440.828/-274.-1057.1920.1057@0.23.1440.828" timestamp="1604671360576" />
+    <state width="1398" height="294" key="GridCell.Tab.0.left/0.23.1440.828@0.23.1440.828" timestamp="1604694763853" />
+    <state width="1398" height="164" key="GridCell.Tab.0.right" timestamp="1604916238417">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="219" key="GridCell.Tab.0.right/0.0.1440.900/-274.-1080.1920.1080@0.0.1440.900" timestamp="1604669981051" />
+    <state width="1398" height="252" key="GridCell.Tab.0.right/0.0.1440.900/1440.-118.1920.1080@0.0.1440.900" timestamp="1604663523413" />
+    <state width="1398" height="164" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1604916238417" />
+    <state width="1398" height="219" key="GridCell.Tab.0.right/0.23.1440.828/-274.-1057.1920.1057@0.23.1440.828" timestamp="1604671360578" />
+    <state width="1398" height="294" key="GridCell.Tab.0.right/0.23.1440.828@0.23.1440.828" timestamp="1604694763854" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/mongoDB/router/router.go</url>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
